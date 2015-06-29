@@ -6,7 +6,7 @@ Everyone wants to have a healthy lifestyle; the question is `Is what I'm doing t
 
 Eating healthy alone can give you good results, but eating healthy coupled with a 30-min work out multiple the results many times over, both physically and mentally.  But what workouts? Where can I find them?  In what order do I do these workouts?  Is this to be done hourly, daily, or one-time only?  Several fitness-centered organizations have made available various tools on the web, on our phones, that can assist us with these questions.
 
-I want to talk about an app that I've found very helpful, called [Myfitnesspal][1].  I use it to count calories, log workouts, track weight, etc.  Among these, personally, I emphasize on counting calories.  I know most people don't count calories, or don't like counting calories, but, personally, it has helped me monitor what and how much I eat.  Tracking that does not have to be accurate.  However, knowing and tracking *what* you eat, *when* or *how often* you eat, and *how much* you eat, has influenced me subconsciously in my decision to pick up my next snack.
+I want to talk about an app that I've found very helpful, called [MyFitnessPal][1].  I use it to count calories, log workouts, track weight, etc.  Among these, personally, I emphasize on counting calories.  I know most people don't count calories, or don't like counting calories, but, personally, it has helped me monitor what and how much I eat.  Tracking that does not have to be accurate.  However, knowing and tracking *what* you eat, *when* or *how often* you eat, and *how much* you eat, has influenced me subconsciously in my decision to pick up my next snack.
 
 ## Benefits
 
@@ -25,23 +25,29 @@ There are a myriad of such applications that allow us to invest unbelievably sma
 
 Below is a list of applications that I've found helpful in tracking my health and fitness, and I hope it can help you as well.  However, please note that there are several other apps available on web, iStore, Play Store, and other platforms, so please explore them so as to find one best fit for your needs.
 
-1. [Myfitnesspal][1]:
+1. [MyFitnessPal][1]:
  * Workout - helps track your workout, track your heartrate, etc.
  * Meal tracker - tracks the nutritional content of the food you eat, barcode scans the nutrition program from the packaging to suggest intake given the user-selected program
  * Ability to log water intake
  * It provides a weight tracker.
  * Option to synchronize with other apps
  * Blogs on healthy eating, recipes, success stories that can motivate you.
-   
-2. [Mapmyfitness][2]:
+
+  ![MyFitnessPal image](https://github.com/radhikashok/health-wellness-docs/blob/master/document/resources/mapmyfitness.png)
+
+2. [MapMyFitness][2]:
  * Built in GPS-technology for runners.
  * Import workouts from over 400 compatible devices, including Jawbone, Garmin, Polar and Fitbit.
  * Get credit for all the calories you burn by linking your MyFitnessPal account with MapMyFitness.
- 
+
+  ![MapMyFitness image](https://github.com/radhikashok/health-wellness-docs/blob/master/document/resources/myfitnesspal.png)
+
 3. [Runtastic][3]:
  * Array of health and fitness products - These apps are specifically designed to cater to a specific activity. Eg: Running, Mountain biking, Abs, Legs, Sit-ups and plenty more
  * Apps can be synced with `Myfitnesspal`
- 
+
+  ![RuntasticImage](https://github.com/radhikashok/health-wellness-docs/blob/master/document/resources/runtastic.png)
+
 [1]: https://www.myfitnesspal.com/
 [2]: http://www.mapmyfitness.com/
 [3]: https://www.runtastic.com/
